@@ -69,7 +69,7 @@ return
 	preset_define 3,1,40,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,40,700 ;Menu chars text
 	preset_define 4,1,40,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,40 ;Menu chars/tips/notes text jp
 	preset_define 5,1,40,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,20,830 ;Menu tips/notes text
-	preset_define 13,1,55,#FFFFFF,1,0,0,1,10,#000000,0,0,0,#000000,3,80 ;Menu tips/notes titles
+	preset_define 13,3,55,#FFFFFF,1,0,0,1,10,#000000,0,0,0,#000000,3,80 ;Menu tips/notes titles
 	;Buttons
 	preset_define 11,2,36,#FFFFFF,0,0,0,1,-1,#000000,0,-1,-1,#000000,1,-1 ;Menu main buttons
 	preset_define 12,2,36,#FFFFFF,0,0,0,1,3,#000000,0,0,0,#000000,-2,-1 ;Menu chars kill/change buttons
@@ -100,6 +100,7 @@ return
 	preset_define 32,1,50,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,20,1590 ;Menu murder
 	;chinese
 	preset_define 33,7,35,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,40,1920 ;Menu murder answer
+	preset_define 34,1,40,#C0FFFF,0,0,0,1,6,#000000,0,0,0,#000000,0,70,1880 ;BGM
 return
 
 *backup_disable_lang

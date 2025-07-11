@@ -23395,7 +23395,7 @@ return
 		_csp 748
 		if %bgm_chapter_display == 0 mov %bgm_title_delay,0 : return
 		border_pad_push 3
-		lsp 748,":s;#FFFFFF`{p:7:♪"+$BGM_Title+"}",18,-100
+		lsp 748,":s;#FFFFFF`{p:34:♪"+$BGM_Title+"}",18,-100
 		border_pad_pop
 		spt ypos,748,0,%bgm_title_delay
 		mov %bgm_title_delay,0
