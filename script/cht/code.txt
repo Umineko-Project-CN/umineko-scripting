@@ -101,6 +101,7 @@ return
 	;chinese
 	preset_define 33,7,35,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,40,1920 ;Menu murder answer
 	preset_define 34,1,40,#C0FFFF,0,0,0,1,6,#000000,0,0,0,#000000,0,70,1880 ;BGM
+	preset_define 35,7,60,#FFFFFF,0,0,0,1,10,#000000,0,0,0,#000000,3,80 ;Menu EP8 Quiz
 return
 
 *backup_disable_lang
