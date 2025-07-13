@@ -95,7 +95,7 @@ return
 	preset_define 25,4,50,#FFFFFF,0,0,0,1,10,#000000,0,0,0,#000000,3,40,1920 ;Credits MVP
 	;Load/Save
 	preset_define 30,1,42,#FFFFFF,0,0,0,1,5,#000000,0,0,0,#000000,1,40,1920 ;Episode names
-	preset_define 31,1,36,#FFFFFF,0,0,0,1,3,#000000,0,0,0,#000000,-2,-1 ;Save dates
+	preset_define 31,7,36,#FFFFFF,0,0,0,1,3,#000000,0,0,0,#000000,-2,-1 ;Save dates
 	;ep8 menu murder
 	preset_define 32,1,50,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,20,1590 ;Menu murder
 	;chinese
